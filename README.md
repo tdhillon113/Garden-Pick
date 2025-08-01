@@ -22,3 +22,5 @@ Each crewmate has a direct, unique URL link to an info page about them
 Clicking on a crewmate in the summary page navigates to a detail page for that crewmate
 The detail page contains extra information about the crewmate not included in the summary page
 Users can navigate to to the edit form from the detail page
+
+[img src](https://submissions.us-east-1.linodeobjects.com/web102/VJNtU-Xs.gif)
